@@ -1,4 +1,4 @@
-# DS_GA1001Project
+# DS_GA1001Project :purple_heart:
 ## New York University DS_GA1001 Introduction to Data Science course final project
 
 ### Prof. Dalessandro
@@ -26,7 +26,7 @@ Deliverable #1: On October 12th you will submit your choice of team and initial 
 
 
 
-
+ 
 
 Deliverable #3: On October 26th you will present me with a proposal for your project. This should give as much detail as possible on your ideas, so that I can give you feedback. At this point you should have your data. Include in your proposal your ideas about: What is the exact business problem? What is the use scenario? What precisely is the supervised data mining problem? What is a data instance? What might be the target variable? What features would be useful? How exactly would it add business value? Etc. This should be about 2 paragraphs and email submission is preferred (5%)
 
